@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "671442545106",
+    "firebase_url": "https://letstransport-3b8f3-default-rtdb.firebaseio.com",
+    "project_id": "letstransport-3b8f3",
+    "storage_bucket": "letstransport-3b8f3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671442545106:android:8ae307efcbf4e29befc00b",
+        "android_client_info": {
+          "package_name": "com.ranjanpanda.cab_driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671442545106-jdso6qpjb281gl6qcl3ogjc857h6n0sh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": ""
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671442545106-jdso6qpjb281gl6qcl3ogjc857h6n0sh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671442545106:android:8f5cb9f6b7d5c1c0efc00b",
+        "android_client_info": {
+          "package_name": "com.ranjanpanda.letstransport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671442545106-jdso6qpjb281gl6qcl3ogjc857h6n0sh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmXz716Q-qggcqXW0xApyuC6_OYbKyHL4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671442545106-jdso6qpjb281gl6qcl3ogjc857h6n0sh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
